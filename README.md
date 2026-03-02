@@ -13,3 +13,7 @@ Repositório com dataset e códigos do Projeto ARCADE
 - Python 3.9+
 - Bibliotecas: pandas, numpy, datetime, matplotlib, sklearn, os, json, pathlib, typing, tensorflow, cma, re
 - Adequar os nomes de diretórios e arquivos diretamente nos códigos
+
+## Licença
+
+Esse projeto está licenciado sob a licença **MIT**. Verifique LICENSE para mais detalhes.
