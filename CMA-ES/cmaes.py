@@ -28,7 +28,8 @@ BOOTSTRAP_SEED = 123
 PCI_COLS = [
     "PCI_009", "PCI_010", "PCI_011",
     "PCI_165", "PCI_166", "PCI_167",
-    "PCI_243", "PCI_244", "PCI_245", "PCI_246", "PCI_247", "PCI_248",
+    "PCI_243", "PCI_244", "PCI_245", 
+    "PCI_246", "PCI_247", "PCI_248",
     "PCI_252", "PCI_253", "PCI_254",
     "PCI_333", "PCI_334", "PCI_335",
     "PCI_395", "PCI_396", "PCI_397",
