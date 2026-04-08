@@ -141,8 +141,7 @@ def plot_coverage(df: pd.DataFrame, value_col: str, out_png: Path, title: str):
 def main():
     pci = input("Digite o PCI (ex: 009): ").strip().zfill(3)
     base_dir = Path("/home/drcoliveira/UFU/Doutorado/Defesa/Dataset")
-    # pasta_rna = base_dir / "RNA" / "Leitura"  # Leitura2 tem os dados com aumento somente na A_A
-    pasta_rna = base_dir / "RNA" / "Leitura2" # Leitura2 tem os dados com aumento não somente na A_A, mas em A_T
+    pasta_rna = base_dir / "RNA" / "Leitura"  # Leitura2 tem os dados com aumento somente na A_A
     pasta_saida = base_dir / "RNA" / f"PCI_{pci}"
     pasta_saida.mkdir(parents=True, exist_ok=True)
 
