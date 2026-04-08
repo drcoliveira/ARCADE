@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Script unificado: Treinamento de RNA (MLP) + Extrapolação de RSRP + Relatórios + Visualizações.
+Script unificado: Treinamento de RNA + Extrapolação de RSRP + Relatórios + Visualizações.
 Salva resultados completos (CSV, PNG, TXT) na pasta /home/drcoliveira/UFU/Doutorado/Defesa/Dataset/RNA/PCI_xxx
 """
 
